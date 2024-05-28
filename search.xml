@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Hexo環境建置指令</title>
+    <url>/2024/05/26/Hexo%E7%92%B0%E5%A2%83%E5%BB%BA%E7%BD%AE%E6%8C%87%E4%BB%A4/</url>
+    <content><![CDATA[<h2 id="建立部落格環境"><a href="#建立部落格環境" class="headerlink" title="建立部落格環境"></a>建立部落格環境</h2><p>先在桌面建立一個專案資料夾，開啟終端機下以下指令移動到該資料夾的位置</p>
+<h3 id="用cd指令移動到指定的位置"><a href="#用cd指令移動到指定的位置" class="headerlink" title="用cd指令移動到指定的位置"></a>用cd指令移動到指定的位置</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="built_in">cd</span> 資料夾路徑</span><br></pre></td></tr></table></figure>
+
+<p>在Windows系統，cd指令看起來像這樣 <code>cd C:\Users\使用者名稱\Desktop\project</code></p>
+<h4 id="路徑看起來很長有沒有快一點的方式？"><a href="#路徑看起來很長有沒有快一點的方式？" class="headerlink" title="路徑看起來很長有沒有快一點的方式？"></a>路徑看起來很長有沒有快一點的方式？</h4><p>有，先在終端機輸入 <code>cd </code>  ，再將剛剛建立的專案資料夾拖曳到終端機 <code>cd </code>  文字的後面，就可以快速產生專案資料夾的路徑囉！</p>
+<p>利用cd指令移動到專案資料夾的位置之後，就可以開始下指令建立Hexo部落格了~</p>
+<h3 id="建立Hexo部落格的指令"><a href="#建立Hexo部落格的指令" class="headerlink" title="建立Hexo部落格的指令"></a>建立Hexo部落格的指令</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo init 你的網站英文名稱</span><br></pre></td></tr></table></figure>
+
+<p>執行完之後Hexo會用你的網站英文名稱在你的專案資料夾中建立一個資料夾，裡面有所有要建置你部落格網站需要的資料</p>
+<h4 id="如何用瀏覽Hexo為你建立的網站呢？"><a href="#如何用瀏覽Hexo為你建立的網站呢？" class="headerlink" title="如何用瀏覽Hexo為你建立的網站呢？"></a>如何用瀏覽Hexo為你建立的網站呢？</h4><p>首先，下cd指令移動到Hexo幫你建立的資料夾，像是這樣 <code>cd C:\Users\使用者名稱\Desktop\project\你的網站英文名稱</code> ，然後執行以下指令開啟Hexo伺服器</p>
+<h3 id="開啟Hexo伺服器的指令"><a href="#開啟Hexo伺服器的指令" class="headerlink" title="開啟Hexo伺服器的指令"></a>開啟Hexo伺服器的指令</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo server</span><br></pre></td></tr></table></figure>
+
+<p>執行之後會看到終端機會給你一段網址，點開後就能看到目前你用Hexo建立的網站的樣子囉！</p>
+]]></content>
+      <tags>
+        <tag>Hexo</tag>
+        <tag>前端</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>majiko-君に最後の口付を</title>
+    <url>/2024/05/26/%E6%97%A5%E6%96%87%E6%AD%8C%E7%BF%BB%E8%AD%AF-majiko-%E5%90%9B%E3%81%AB%E6%9C%80%E5%BE%8C%E3%81%AE%E5%8F%A3%E4%BB%98%E3%82%92/</url>
+    <content><![CDATA[<h2 id="majiko-君に最後の口付を-向你獻上最後的吻"><a href="#majiko-君に最後の口付を-向你獻上最後的吻" class="headerlink" title="majiko-君に最後の口付を(向你獻上最後的吻)"></a>majiko-君に最後の口付を(向你獻上最後的吻)</h2><ul>
+<li><p>消えそうな星を眺めて <code>仰望著微弱的星光</code></p>
+</li>
+<li><p>憂いを夜空に吐き出す <code>向夜空吐露憂愁</code></p>
+</li>
+<li><p>落ちる一筋の願いは <code>墜落的一線星願</code></p>
+</li>
+<li><p>淡く溶けて消えた <code>淡化消逝了</code></p>
+</li>
+<li><p>君のいつもの口癖も <code>明明你說話的習慣</code></p>
+</li>
+<li><p>負けず嫌いな性格も <code>好強的性格</code></p>
+</li>
+<li><p>隣で笑うその顔も <code>陪著我笑的臉龐</code></p>
+</li>
+<li><p>大事にしてたのに <code>我都曾那麼的珍惜</code></p>
+</li>
+<li><p>気づけば何故か言えなくなった <code>當意識到時不知為何已無法對你</code></p>
+</li>
+<li><p>君に向けた「好き」という言葉 <code>說出「喜歡」兩個字</code></p>
+</li>
+<li><p>心の何処かでは諦めてたのかな <code>或許在我心底的某處已經放棄了吧</code></p>
+</li>
+<li><p>戻れないと知ってても <code>即使知道再也無法回復</code></p>
+</li>
+<li><p>二人の過去を全て壊して <code>我也要將兩個人的過去 全部破壞</code></p>
+</li>
+<li><p>もう僕なんか嫌いになってよ <code>快變得討厭我吧</code></p>
+</li>
+<li><p>そしたら君の事を今すぐにでも <code>這樣的話我就能馬上</code></p>
+</li>
+<li><p>忘れてしまえるのに <code>把你忘得一干二淨了</code></p>
+</li>
+<li><p>僕の最高の思い出を <code>我把我最美好的回憶</code></p>
+</li>
+<li><p>胸の中にまた隠して <code>再一次埋藏在心底</code></p>
+</li>
+<li><p>先の見えないこの道を <code>今天也一個人走在</code></p>
+</li>
+<li><p>今日も一人歩く <code>看不見未來的路上</code></p>
+</li>
+<li><p>いつしか何も信じられない <code>不知從幾時 不再相信任何事的我</code></p>
+</li>
+<li><p>そんな自分がこの場所にいた <code>曾停留在這裡</code></p>
+</li>
+<li><p>離れたくないけど僕はもう行かなきゃ <code>雖然捨不得離開 但我必須走了</code></p>
+</li>
+<li><p>帰れないと知ってても <code>即使知道再也無法返回</code></p>
+</li>
+<li><p>愛した日々もその温もりも <code>愛過你的每一天 你給的溫暖</code></p>
+</li>
+<li><p>抱きしめ合って過ごした夜も <code>緊緊相擁著度過的夜晚</code></p>
+</li>
+<li><p>嘘じゃないと自分に言い聞かせて <code>我告訴自己這些都不是虛假的</code></p>
+</li>
+<li><p>逃げていたいだけなんだよ <code>但這只不過是想逃避罷了</code></p>
+</li>
+<li><p>二人の過去を全て壊して <code>將兩個人的過去 全部破壞掉吧</code></p>
+</li>
+<li><p>もう僕なんか嫌いになってよ <code>快變得討厭我吧</code></p>
+</li>
+<li><p>そしたら君の事を今すぐにでも <code>這樣的話我就能馬上</code></p>
+</li>
+<li><p>忘れてしまえるのに <code>把你忘得一干二淨了</code></p>
+</li>
+<li><p>君に最後の口づけを <code>向你獻上最後的吻</code></p>
+</li>
+<li><p>今まで本当にありがとう <code>一直以來真的很謝謝你</code></p>
+</li>
+<li><p>重なる二人の想いは <code>交疊的兩人的回憶</code></p>
+</li>
+<li><p>涙の味がした <code>有了淚水的味道</code></p>
+</li>
+</ul>
+<p>以上是我翻譯的歌詞，稍微加了自己的想法</p>
+<p>歡迎大家去聽<a href="https://www.youtube.com/watch?v=gqiRJn7me-s">這首歌</a></p>
+]]></content>
+      <tags>
+        <tag>翻譯</tag>
+        <tag>日文學習</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>從零開始學Hexo</title>
+    <url>/2024/05/26/%E5%BE%9E%E9%9B%B6%E9%96%8B%E5%A7%8B%E5%AD%B8Hexo/</url>
+    <content><![CDATA[<h2 id="什麼是-Hexo？"><a href="#什麼是-Hexo？" class="headerlink" title="什麼是 Hexo？"></a>什麼是 Hexo？</h2><p>Hexo 是一個快速、簡單且強大的網誌框架。Hexo 使用 Markdown（或其他標記語言）解析您的文章，並在幾秒鐘內，透過漂亮的主題產生靜態部落格網站。</p>
+<h2 id="安裝前先檢查"><a href="#安裝前先檢查" class="headerlink" title="安裝前先檢查"></a>安裝前先檢查</h2><p>安裝Hexo之前先檢查是否已安裝Node.js及Git，若不確定是否已安裝可在終端機下以下指令：</p>
+<h3 id="檢查是否安裝Node-js"><a href="#檢查是否安裝Node-js" class="headerlink" title="檢查是否安裝Node.js"></a>檢查是否安裝Node.js</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">node -v</span><br></pre></td></tr></table></figure>
+
+<h3 id="檢查npm是否正常"><a href="#檢查npm是否正常" class="headerlink" title="檢查npm是否正常"></a>檢查npm是否正常</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">npm -v</span><br></pre></td></tr></table></figure>
+
+<p>npm是Node.js預設的、用JavaScript編寫的軟體套件管理系統。之後會透過npm進行Hexo的安裝</p>
+<h3 id="檢查是否安裝Git"><a href="#檢查是否安裝Git" class="headerlink" title="檢查是否安裝Git"></a>檢查是否安裝Git</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">git --version</span><br></pre></td></tr></table></figure>
+
+<p>若成功跑出版本號碼代表安裝成功，若還未安裝可至以下網址進行安裝：</p>
+<ul>
+<li><a href="https://nodejs.org/en">Node.js</a> (Node.js 版本需不低於8.10，建議使用 Node.js 10.0 及以上版本)</li>
+<li><a href="https://git-scm.com/">Git</a></li>
+</ul>
+<h2 id="安裝Hexo"><a href="#安裝Hexo" class="headerlink" title="安裝Hexo"></a>安裝Hexo</h2><p>確認以上軟體安裝完成後就可以透過npm來安裝Hexo囉~</p>
+<h3 id="執行以下指令透過npm安裝Hexo"><a href="#執行以下指令透過npm安裝Hexo" class="headerlink" title="執行以下指令透過npm安裝Hexo"></a>執行以下指令透過npm安裝Hexo</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">npm install -g hexo-cli</span><br></pre></td></tr></table></figure>
+
+<h3 id="檢查Hexo是否安裝成功-跑出版本號碼代表安裝成功"><a href="#檢查Hexo是否安裝成功-跑出版本號碼代表安裝成功" class="headerlink" title="檢查Hexo是否安裝成功(跑出版本號碼代表安裝成功)"></a>檢查Hexo是否安裝成功(跑出版本號碼代表安裝成功)</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo -v</span><br></pre></td></tr></table></figure>
+
+<p>若是透過PowerShell安裝，一直無法安裝成功可以參考<a href="https://akoncc.github.io/2019/11/01/vscode-cant-run-script/">這篇文章</a></p>
+<p>遇到其他問題可參考<a href="https://hexo.io/zh-tw/">Hexo官網</a></p>
+]]></content>
+      <tags>
+        <tag>Hexo</tag>
+        <tag>前端</tag>
+      </tags>
+  </entry>
+</search>
